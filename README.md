@@ -1,73 +1,108 @@
 <div align="center">
 
-# Hi there, I'm Kholid 👋
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>👋 HI, I'm</sub></p>
+<h1>Khalid Al Asad</h1>
+<h3>Backend-leaning Full-stack Engineer · PHP · JavaScript</h3>
+<p>A wannabe back-end developer who ships web apps end-to-end — from database schema to the last pixel of CSS.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-**Senior Backend Engineer | Cloud Architect | AI Explorer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kholidasad.web.id-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kholidasad.web.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-al-asad)
-
-*Turning complex problems into elegant, scalable solutions (and trying to keep the cloud bills low). ☁️☕*
-
+<p>
+<a href="https://kholidasad.web.id"><img src="https://img.shields.io/badge/Website-kholidasad.web.id-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/kholidasad?tab=repositories"><img src="https://img.shields.io/badge/Repositories-29-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/45957995?v=4" width="180" alt="Khalid Al Asad" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>⚡ At a glance</h2>
 
-### 👨‍💻 What I Do
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>🧭 Focus</h3><p>Backend & full-stack web apps with PHP, plus the JavaScript/CSS to make them feel good.</p></td>
+<td width="33%" valign="top"><h3>🛠️ Currently building</h3><p>A multi-tenant SaaS starter kit, AI tooling helpers, and a macOS notch utility in Swift.</p></td>
+<td width="33%" valign="top"><h3>🌱 Exploring</h3><p>Cleaner backend architecture, multi-tenancy patterns, and native macOS development.</p></td>
+</tr>
+</table>
 
-*   🏗️ **Architecting & Building:** Focused on robust backend systems and custom AI developer tools, including building my own AI-powered CLI assistants.
-*   ⚙️ **Problem Solving:** Experienced in tackling complex concurrency issues, locking strategies, and streamlining CI/CD pipelines.
-*   ☁️ **Cloud Native:** Getting applications from local development to production smoothly using AWS, containerization, and modern deployment tools.
-*   🤖 **Exploring:** Actively integrating LLMs (like AWS Bedrock) and building workflow automations (n8n) to make development faster.
-*   ⚡ **Beyond the Code:** When I'm not writing code on my MacBook, I'm usually stepping away from the screen to build and display Gundam model kits!
+<h2>📊 Stats</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kholidasad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45957995%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kholidasad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45957995%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Khalid Al Asad GitHub stats" />
+</picture>
+</p>
 
-### 🛠️ Tech Stack & Tools
+<h2>🚀 Featured projects</h2>
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/kholidasad/multi-tenant-starter-kit">🏢 multi-tenant-starter-kit</a></h3>
+<p>A starter kit for building multi-tenant SaaS apps in PHP — tenant isolation and the boring setup done up front.</p>
+<p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/kholidasad/token-saver">🪙 token-saver</a></h3>
+<p>Skills for keeping AI-assistant token usage lean: tighter context, fewer wasted calls.</p>
+<p><img src="https://img.shields.io/badge/AI_Tooling-0d1117?style=flat-square&logo=openai&logoColor=white" alt="AI tooling" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/kholidasad/notch-island-mac">🏝️ notch-island-mac</a></h3>
+<p>A Dynamic Island–style experience for the MacBook notch, built natively in Swift.</p>
+<p><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" /></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://kholidasad.web.id">🌐 kholidasad.web.id</a></h3>
+<p>My personal site — projects, notes, and ways to get in touch.</p>
+<p><img src="https://img.shields.io/badge/Website-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></p>
+</td>
+</tr>
+</table>
 
-**Database & Messaging**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<h2>🧰 Tech stack</h2>
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,swift,git,docker,linux&perline=11" alt="Tech stack" />
+</p>
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-1E90FF?style=for-the-badge&logoColor=white)
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>88% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6%</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2%</sub></td>
+<td width="20%" align="center"><strong>Swift</strong><br /><sub>1%</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
 
-**Automation**  
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![CLI Tools](https://img.shields.io/badge/Custom%20CLI%20Tools-4A4A55?style=for-the-badge&logo=gnubash&logoColor=white)
+<h2>🔥 Contribution activity</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kholidasad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45957995%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kholidasad&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F45957995%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Khalid Al Asad contribution activity" />
+</picture>
+</p>
 
-### 📊 GitHub Stats
+<hr />
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>🤝 Let’s build something</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work — especially on the backend.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://kholidasad.web.id">🌐 Website</a><br /><a href="https://github.com/kholidasad">🐙 GitHub</a></td>
+</tr>
+</table>
 
-![Kholid's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kholidasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kholidasad&color=0d1117&style=flat-square&label=Profile+views" alt="Profile views" /></p>
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kholidasad&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kholidasad&theme=tokyonight&hide_border=true)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kholidasad&style=for-the-badge&color=blueviolet)
-
-</div>
+</article></div></div></body></html>
